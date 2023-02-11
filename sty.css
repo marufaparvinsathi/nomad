@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.topbar p{
+    background-color: rgb(123, 10, 10);
+    color: whitesmoke;
+    text-align: center;
+    font-weight: bold;
+}
+.details{
+    margin-top: 2rem;
+}
+.details .img img{
+    width: 100%;
+}
+.details .details-2{
+  margin-top: 8rem;  
+}
+.carousel-item img{
+    width: 100%;
+}
+.cource-details .card{
+    text-align: center;
+}
+.cource-details .card img{
+  height: 4rem;  
+  width: 4rem;
+}
